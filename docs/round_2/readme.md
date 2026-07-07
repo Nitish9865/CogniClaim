@@ -4,6 +4,6 @@ This folder contains the refined proposal and the first working prototype.
 
 ## Contents
 
-- Prototype presentation
+- It was prototype submission round..
 - System architecture
 - Design documents
